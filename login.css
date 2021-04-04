@@ -11,14 +11,15 @@ body
 	
 }  
 .login{  
-        width: 200px;  
-        overflow: hidden;  
-        margin: auto;  
-        margin: 20 0 0 450px;  
-        padding: 80px;  
-        background: #63066F;  
-        border-radius: 15px ;  
-	opacity: 70%;
+    width: 200px;  
+    overflow: hidden;  
+    margin: auto;  
+    /* margin: 20 0 0 450px;   */
+    padding: 80px;  
+    /* background: #63066F;   */
+    background:linear-gradient(to top, #ad5389 0%,#3c1053 100% );
+    border-radius: 15px ;  
+    opacity: 90%;
           
 }  
 h2{  
@@ -43,7 +44,6 @@ label{
     border: none;  
     border-radius: 3px;  
     padding-left: 8px;  
-      
 }  
 #log{  
     width: 200px;  
